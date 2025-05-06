@@ -18,7 +18,7 @@ const Skills = () => {
       color: 'from-blue-500 to-cyan-500'
     },
     {
-      category: 'Programing Languages',
+      category: 'Programming Languages',
       items: ['Java','C'],
       color: 'from-teal-500 to-emerald-500'
     }

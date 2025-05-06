@@ -6,9 +6,9 @@ const Hero = () => {
     <section id="home" className="min-h-screen flex items-center justify-center gradient-bg overflow-hidden">
       <div className="container mx-auto px-4 py-20 text-center relative">
         <div className="animate-float">
-          <h1 className="text-6xl md:text-8xl font-bold text-white mb-6 animate-slide-in">
-            Hi,I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">Asraf A</span>
-          </h1>
+          <h2 className="text-6xl md:text-8xl font-bold text-white mb-6 animate-slide-in">
+             Hi , I am  <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">Asraf A</span>
+          </h2>
           <p className="text-2xl md:text-3xl text-white/90 mb-12 animate-slide-in" style={{ animationDelay: '0.2s' }}>
             Crafting Digital Experiences with Code
           </p>
