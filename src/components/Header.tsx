@@ -58,9 +58,9 @@ const NavLinks = () => (
 
 const SocialLinks = () => (
   <div className="flex gap-4">
-    <a href="https://github.com/asrafaleem" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900">
+   {/*  <a href="https://github.com/asrafaleem" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900">
       <Github size={20} />
-    </a>
+    </a> */}
     <a href="https://www.linkedin.com/in/asrafaleem/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900">
       <Linkedin size={20} />
     </a>
